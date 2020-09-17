@@ -10,8 +10,8 @@
 
 
 - [Tensorflow](#Tensorflow)
-  * [Tesorflow on Ubuntu](#Tensorflow-on-unbuntu)
-    + [Tesorflow on ubuntu 20.04](#Tesorflow-on-ubuntu-20.04)     
+  * [Tesorflow on Ubuntu](#Tensorflow-on-Unbuntu)
+    + [Tesorflow on ubuntu 20.04](#Tesorflow-on-Ubuntu-20.04)     
   
 
 # installations
