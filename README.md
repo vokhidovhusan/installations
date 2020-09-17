@@ -10,8 +10,8 @@
 
 
 - [Tensorflow](#Tensorflow)
-  * [Tesorflow on Ubuntu](#Tensorflow-on-Unbuntu)
-    + [Tesorflow on ubuntu 20.04](#Tesorflow-on-Ubuntu-20.04)     
+  * [Tensorflow on Ubuntu](#Tensorflow-on-Unbuntu)
+    + [Tensorflow on ubuntu 20.04](#Tensorflow-on-Ubuntu-20.04)     
   
 
 # installations
@@ -28,8 +28,8 @@ coming soon ...
 ### Windows
 
 ## Tensorflow
-### Tesorflow on Ubuntu
-#### Tesorflow on Ubuntu 20.04
+### Tensorflow on Ubuntu
+#### Tensorflow on Ubuntu 20.04
 [How to install TensorFlow 2.0 on Ubuntu]
 
 
