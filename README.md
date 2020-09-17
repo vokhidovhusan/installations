@@ -38,9 +38,13 @@ coming soon ...
 
 coming soon ...
 
+[github markdown]
+
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [How to install TensorFlow 2.0 on Ubuntu]: <https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/>
+   [github markdown]: <https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf/>
    
    
 
