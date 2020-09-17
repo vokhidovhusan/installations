@@ -11,8 +11,10 @@
 
 - [Tensorflow](#Tensorflow)
   * [Tensorflow on Ubuntu](#Tensorflow-on-Ubuntu)
-    + [Tensorflow on ubuntu 20.04](#Tensorflow-on-Ubuntu-20*.*04)
-  
+    + [Tensorflow on ubuntu 20.04](#Tensorflow-on-Ubuntu-20.04)
+  **20.04**
+  *20.04*
+  20\.04
 
 # installations
 
