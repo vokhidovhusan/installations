@@ -45,7 +45,7 @@ coming soon ...
 
 ## Opencv
 
-### Opencv Cuda on Ubuntu
+### Opencv with Cuda on Ubuntu
 
 [Install OpenCV 4.2.0 with CUDA 10.1 on Ubuntu 20.04 LTS]
 
