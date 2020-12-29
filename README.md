@@ -46,6 +46,7 @@ coming soon ...
 ### Opencv Cuda on Ubuntu
 
 [Install OpenCV 4.2.0 with CUDA 10.1 on Ubuntu 20.04 LTS]
+[OpenCV's dnn module with NVIDIA GPU, CUDA and cuDNN]
 
 [github markdown]
 
@@ -53,4 +54,5 @@ coming soon ...
 [how to install tensorflow 2.0 on ubuntu]: https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/
 [Installing TensorFlow GPU in Ubuntu 20.04]: https://towardsdatascience.com/installing-tensorflow-gpu-in-ubuntu-20-04-4ee3ca4cb75d
 [Install OpenCV 4.2.0 with CUDA 10.1 on Ubuntu 20.04 LTS]: https://medium.com/@sb.jaduniv/how-to-install-opencv-4-2-0-with-cuda-10-1-on-ubuntu-20-04-lts-focal-fossa-bdc034109df3/
+[OpenCV's dnn module with NVIDIA GPU, CUDA and cuDNN]: https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/
 [github markdown]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
