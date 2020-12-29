@@ -13,7 +13,7 @@
   - [Tensorflow on ubuntu 20.04](#Tensorflow-on-Ubuntu-20-04)
   
 - [Opencv](#Opencv)
-  - [Opencv 4 with Cuda on Ubuntu 20.04](#Opencv-Cuda-on-Ubuntu-20-04)
+  - [Opencv with Cuda on Ubuntu](#Opencv-Cuda-on-Ubuntu)
 
 # installations
 
@@ -43,7 +43,9 @@ coming soon ...
 
 ## Opencv
 
-### Opencv Cuda on Ubuntu 20 04
+### Opencv Cuda on Ubuntu
+
+[Install OpenCV 4.2.0 with CUDA 10.1 on Ubuntu 20.04 LTS]
 
 [github markdown]
 
