@@ -8,10 +8,13 @@
   - [MacOS](#MacOS)
   - [Windows](#Windows)
 
+- [CUDA](#CUDA)
+  - [CUDA on ubuntu 20.04](#CUDA-on-Ubuntu-24-04)
+  
 - [Tensorflow](#Tensorflow)
   - [Tensorflow on ubuntu 18.04](#Tensorflow-on-Ubuntu-18-04)
   - [Tensorflow on ubuntu 20.04](#Tensorflow-on-Ubuntu-20-04)
-  
+
 - [Opencv](#Opencv)
   - [Opencv with Cuda on Ubuntu](#Opencv-Cuda-on-Ubuntu)
 
@@ -30,6 +33,12 @@ coming soon ...
 ### MacOS
 
 ### Windows
+
+## CUDA
+
+### CUDA on Ubuntu 20-04
+
+[CUDA 11.1 with nvidia-driver 455 on Ubuntu 24.04]
 
 ## Tensorflow
 
@@ -54,6 +63,7 @@ coming soon ...
 [github markdown]
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
+[CUDA 11.1 with nvidia-driver 455 on Ubuntu 24.04]: https://jackfrisht.medium.com/install-nvidia-driver-via-ppa-in-ubuntu-18-04-fc9a8c4658b9
 [Install TensorFlow and Keras on Ubuntu 18.04]: https://www.pyimagesearch.com/2019/01/30/ubuntu-18-04-install-tensorflow-and-keras-for-deep-learning/
 [how to install tensorflow 2.0 on ubuntu]: https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/
 [Installing TensorFlow GPU in Ubuntu 20.04]: https://towardsdatascience.com/installing-tensorflow-gpu-in-ubuntu-20-04-4ee3ca4cb75d
