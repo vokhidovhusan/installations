@@ -46,6 +46,7 @@ coming soon ...
 ### Opencv Cuda on Ubuntu
 
 [Install OpenCV 4.2.0 with CUDA 10.1 on Ubuntu 20.04 LTS]
+
 [OpenCV's dnn module with NVIDIA GPU, CUDA and cuDNN]
 
 [github markdown]
