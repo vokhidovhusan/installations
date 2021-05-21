@@ -27,7 +27,7 @@ conda activate yourenvname
 ## Install PyTorch 
 1. Go to pytorch website [https://pytorch.org/] or previous versions [https://pytorch.org/get-started/previous-versions/]. 
 
-![alt text](https://github.com/martianvenusian/installations/blob/master/CUDA/pytorch_download_01.jpg?raw=true)
+![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/pytorch_download_01.jpg?raw=true)
 
 Choose right version according to your CUDA version
 
