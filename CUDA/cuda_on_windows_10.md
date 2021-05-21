@@ -19,7 +19,7 @@ After download CUDA.exe file install it
 ![alt text](https://github.com/martianvenusian/installations/blob/master/CUDA/install_01.jpg?raw=true)
 
 ## Download CUDNN library
-Go to nvidia cudnn download page [here] https://developer.nvidia.com/cudnn-download-survey
+Go to nvidia cudnn download page: https://developer.nvidia.com/cudnn-download-survey
 
 You first have to crate account.
 
@@ -28,3 +28,17 @@ You first have to crate account.
 Then download cudnn library according to your operating system and CUDA version
 
 ![alt text](https://github.com/martianvenusian/installations/blob/master/CUDA/cudnn_download_01.jpg?raw=true)
+
+## Download Visual Studio Coda 
+Install Visual Studio Community version
+
+![alt text](https://github.com/martianvenusian/installations/blob/master/CUDA/visual_studio_01.jpg?raw=true)
+
+![alt text](https://github.com/martianvenusian/installations/blob/master/CUDA/visual_studio_02.jpg?raw=true)
+
+## install CUDNN library
+1. Extract the Cudnn zip file
+2. Copy all files from cuda\bin\ folder to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin\
+3. Copy all files from cuda\include\ folder to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\
+4. Copy all files from cuda\lib\x64 folder to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64
+### Done
