@@ -16,6 +16,8 @@
   - [Tensorflow on ubuntu 18.04](#Tensorflow-on-Ubuntu-18-04)
   - [Tensorflow on ubuntu 20.04](#Tensorflow-on-Ubuntu-20-04)
 
+- [PyTorch](#pyTorch)
+  - [PyTorch on Windows 10](#PyTorch-on-Windows-10)
 - [Opencv](#Opencv)
   - [Opencv with Cuda on Ubuntu](#Opencv-Cuda-on-Ubuntu)
 
@@ -56,6 +58,10 @@ coming soon ...
 
 [Installing TensorFlow GPU in Ubuntu 20.04]
 
+## PyTorch
+
+### PyTorch on Windows 10
+[PyTorch on Windows 10](https://github.com/martianvenusian/installations/blob/master/PyTorch/pytorch_on_windows_10.md)
 ## Opencv
 
 ### Opencv with Cuda on Ubuntu

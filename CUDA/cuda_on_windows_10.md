@@ -29,7 +29,7 @@ Then download cudnn library according to your operating system and CUDA version
 
 ![alt text](https://github.com/martianvenusian/installations/blob/master/CUDA/cudnn_download_01.jpg?raw=true)
 
-## Download Visual Studio Coda 
+## Install Visual Studio Community version 
 Install Visual Studio Community version
 
 ![alt text](https://github.com/martianvenusian/installations/blob/master/CUDA/visual_studio_01.jpg?raw=true)
