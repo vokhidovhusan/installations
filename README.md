@@ -42,7 +42,7 @@ coming soon ...
 [CUDA 11.1 with nvidia-driver 455 on Ubuntu 24.04]
 
 ### CUDA on Windows 10
-[CUDA on Windows 10](https://github.com/martianvenusian/installations/blob/main/CUDA/cuda_on_windows_10.md).
+[CUDA on Windows 10](https://github.com/martianvenusian/installations/blob/main/CUDA/cuda_on_windows_10.md)
 
 ## Tensorflow
 
