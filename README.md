@@ -10,7 +10,7 @@
 
 - [CUDA](#CUDA)
   - [CUDA on ubuntu 20.04](#CUDA-on-Ubuntu-24-04)
-  - [CUDA on ubuntu 10](#CUDA-on-Windows-10)
+  - [CUDA on Windows 10](#CUDA-on-Windows-10)
   
 - [Tensorflow](#Tensorflow)
   - [Tensorflow on ubuntu 18.04](#Tensorflow-on-Ubuntu-18-04)

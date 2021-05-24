@@ -25,21 +25,22 @@ conda activate yourenvname
 ```
 
 ## Install PyTorch 
-1. Go to pytorch website [https://pytorch.org/] or previous versions [https://pytorch.org/get-started/previous-versions/]. 
-
-![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/pytorch_download_01.jpg?raw=true)
-
-Choose right version according to your CUDA version
-
-2. Install pytorch
 
 ```
-# CUDA 11.0
-conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch
+conda install pytorch -c pytorch
 ```
 
-OR
+## Install torchvision
 
 ```
-pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+pip3 install torchvision
+```
+
+## Test
+```
+python
+>>> import torch
+>>> torch.__version__
+'1.8.1'
+>>>
 ```
