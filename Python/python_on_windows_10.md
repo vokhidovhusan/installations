@@ -34,6 +34,6 @@ For example: `Windows installer (64-bit)` for Windows with 64-bit operationg sys
 C:\Users\username>python --version
 Python 3.9.5
 ```
-![alt text](https://github.com/martianvenusian/installations/blob/master/Python/verification_01.PNG?raw=true)
+![alt text](https://github.com/martianvenusian/installations/blob/master/Python/verification_01.png?raw=true)
 
 3. Done
