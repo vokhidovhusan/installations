@@ -12,6 +12,9 @@
 - [Opencv](#Opencv)
   - [Opencv with Cuda on Ubuntu](#Opencv-Cuda-on-Ubuntu)
 
+- [Python](#Python)
+  - [Python on Windows](#Python-on-Windows)
+
 # installations
 
 > This are tutorial links for installations for following subjects
@@ -43,6 +46,7 @@
 
 ### PyTorch on Windows 10
 [PyTorch on Windows 10](https://github.com/martianvenusian/installations/blob/master/PyTorch/pytorch_on_windows_10.md)
+
 ## Opencv
 
 ### Opencv with Cuda on Ubuntu
@@ -50,6 +54,10 @@
 [Install OpenCV 4.2.0 with CUDA 10.1 on Ubuntu 20.04 LTS]
 
 [OpenCV's dnn module with NVIDIA GPU, CUDA and cuDNN]
+
+## Python
+
+### Python on Windows
 
 [github markdown]
 
