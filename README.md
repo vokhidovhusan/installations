@@ -16,6 +16,8 @@
 - [Python](#Python)
   - [Python on Windows](#Python-on-Windows)
 
+- [Github](#Github)
+
 # installations
 
 > This are tutorial links for installations for following subjects
@@ -61,6 +63,7 @@
 ### Python on Windows
 [Python on Windows 10](https://github.com/martianvenusian/installations/blob/master/Python/python_on_windows_10.md)
 
+## Github
 [github markdown]
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
