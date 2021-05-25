@@ -16,8 +16,10 @@
 conda create -n yourenvname python=x.x anaconda
 ```
 yourenvname: can be anything.
+
 python=x.x: choose right python version 
-Example  
+
+For example:
 ```
 conda create -n pytorch_env python=3.9 anaconda
 ```
