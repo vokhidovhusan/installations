@@ -11,7 +11,6 @@
 
 5. (optional) [Conda] (https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) or [Virtualenv]: (https://virtualenv.pypa.io/en/stable/)
 
-http://github.com - automatic!
 [GitHub](http://github.com)
 
 ## Create new conda virtual invoronment (optional)
