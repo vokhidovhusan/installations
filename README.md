@@ -1,7 +1,4 @@
 # installations
-
-> This are tutorial links for installations for following subjects
-
 - [CUDA](#CUDA)
   - [CUDA on ubuntu 20.04](#CUDA-on-Ubuntu-24-04)
   - [CUDA on Windows 10](#CUDA-on-Windows-10)
