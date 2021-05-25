@@ -2,12 +2,6 @@
 
 > This are tutorial links for installations for following subjects
 
-- [OS](#OS)
-
-  - [Linux](#Linux)
-  - [MacOS](#MacOS)
-  - [Windows](#Windows)
-
 - [CUDA](#CUDA)
   - [CUDA on ubuntu 20.04](#CUDA-on-Ubuntu-24-04)
   - [CUDA on Windows 10](#CUDA-on-Windows-10)
@@ -26,16 +20,6 @@
 > This are tutorial links for installations for following subjects
 
 <!-- toc -->
-
-## OS
-
-coming soon ...
-
-### Linux
-
-### MacOS
-
-### Windows
 
 ## CUDA
 
