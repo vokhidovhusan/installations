@@ -58,7 +58,7 @@
 
 ## Python
 
-### Python on Windows 10
+### Python on Windows
 [Python on Windows 10](https://github.com/martianvenusian/installations/blob/master/Python/python_on_windows_10.md)
 
 [github markdown]
