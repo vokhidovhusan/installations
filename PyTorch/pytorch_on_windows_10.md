@@ -9,7 +9,7 @@
 
 4.Python x.x
 
-5. (optional) [Conda] (https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) or [Virtualenv]: (https://virtualenv.pypa.io/en/stable/)
+5. (optional) [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) or [Virtualenv](https://virtualenv.pypa.io/en/stable/)
 
 [GitHub](http://github.com)
 
