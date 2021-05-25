@@ -34,3 +34,5 @@ For example: `Windows installer (64-bit)` for Windows with 64-bit operationg sys
 C:\Users\username>python --version
 Python 3.9.5
 ```
+
+3. Done
