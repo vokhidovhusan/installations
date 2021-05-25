@@ -2,10 +2,14 @@
 
 ## Prerequirements
 1.NVIDIA GPU driver
+
 2.CUDA toolkit
+
 3.CUDNN library
+
 4.Python x.x
-4.conda or Virtualenv (optional) [virtualenv]: https://virtualenv.pypa.io/en/stable/
+
+5.conda or Virtualenv (optional) [virtualenv]: https://virtualenv.pypa.io/en/stable/
 
 ## Create new conda virtual invoronment (optional)
 ```
