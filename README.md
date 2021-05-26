@@ -49,6 +49,7 @@
 
 ### PyTorch on Windows 10
 [PyTorch on Windows 10](https://github.com/martianvenusian/installations/blob/master/PyTorch/pytorch_on_windows_10.md)
+[LibTorch on Windows 10](https://github.com/martianvenusian/installations/blob/master/PyTorch/libroch_on_windows_10.md)
 
 ## Opencv
 
