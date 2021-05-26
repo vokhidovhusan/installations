@@ -85,10 +85,10 @@ example-app/
 2. Run build command:
 
 ```
-mkdir build
-cd build
-cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\libtorch ..
-cmake --build . --config Release
+> mkdir build
+> cd build
+> cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\libtorch ..
+> cmake --build . --config Release
 ```
 
 Where \absolute\path\to\libtorch should be the absolute (!) path to the unzipped LibTorch distribution.
@@ -112,6 +112,8 @@ for example: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\libtorch-win-shared-with-d
 
 4. Executing the resulting example-app 
 ```
-cd build/Release
-example-app
+cd Release
+> example-app.ext
+0.0355 0.3252 0.3173
+0.2431 0.1775 0.2966
 ```
