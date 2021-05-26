@@ -112,7 +112,7 @@ for example: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\libtorch-win-shared-with-d
 
 4. Executing the resulting example-app 
 ```
-cd Release
+> cd Release
 > example-app.ext
 0.0355 0.3252 0.3173
 0.2431 0.1775 0.2966
