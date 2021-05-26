@@ -11,7 +11,7 @@ This instruction only for GPU-enabled libtorch installation.
 
 2. Select `LibTorch` > `C++/Java` > `CUDA XX.X` 
 
-![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/libtorch_on_download_01.png?raw=true)
+![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/libtorch_download_01.png?raw=true)
 
 3. Copy link and download LibTorch archive.
 You can use brower or Command Prompt 
