@@ -11,7 +11,7 @@ This instruction only for GPU-enabled libtorch installation.
 
 2. Select `LibTorch` > `C++/Java` > `CUDA XX.X` 
 
-![alt text](https://github.com/martianvenusian/installations/blob/master/Python/libtorch_on_download_01.png?raw=true)
+![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/libtorch_on_download_01.png?raw=true)
 
 3. Copy link and download LibTorch archive.
 You can use brower or Command Prompt 
@@ -108,7 +108,7 @@ for example: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\libtorch-win-shared-with-d
 -- Build files have been written to: D:/husan/projects/installations/PyTorch/build  
 ```
 
-![alt text](https://github.com/martianvenusian/installations/blob/master/Python/libtorch_build_01.png?raw=true)
+![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/libtorch_build_01.png?raw=true)
 
 4. Executing the resulting example-app 
 ```
