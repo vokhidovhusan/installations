@@ -54,7 +54,7 @@ add_example(sampleCode)
 #add_example(sampleCode2) and so on
 ```
 
-2. Write a sample c++ code 
+2. Write a sample c++ code and name it as `sampleCode.cpp`
 
 ```
 #include <opencv2/core.hpp>
