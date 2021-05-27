@@ -11,8 +11,7 @@
   - [PyTorch on Windows 10](#PyTorch-on-Windows-10)
 
 - [Opencv](#Opencv)
-  - [Opencv with Cuda on Ubuntu](#Opencv-Cuda-on-Ubuntu)
-
+  
 - [Python](#Python)
   - [Python on Windows](#Python-on-Windows)
 
@@ -56,7 +55,7 @@
 
 ### Opencv with Windows
 
-[Opencv on Windows 10](https://github.com/martianvenusian/installations/blob/master/PyTorch/opencv_on_windows_10.md)
+[Opencv on Windows 10](https://github.com/martianvenusian/installations/blob/master/OpenCV/opencv_on_windows_10.md)
 
 ### Opencv with Cuda on Ubuntu
 
