@@ -86,9 +86,9 @@ cmake --build . --config Release
 
 Where \absolute\path\to\libtorch should be the absolute (!) path to the unzipped LibTorch distribution.
 
-for example: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\libtorch-win-shared-with-deps-1.8.1+cu111\libtorch ..
+for example: `cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\libtorch-win-shared-with-deps-1.8.1+cu111\libtorch ..`
 
-3. If all goes well, it will look something like this:
+If all goes well, it will look something like this:
 
 ```
 -- Building for: Visual Studio 16 2019
