@@ -14,7 +14,7 @@ Installation by using the pre-build library
 
 ## Installation
 1. Once you download the installer, double click on it to extract.
-2. Choose the path you want to extract.
+2. Choose the path where you want to extract.
 ![alt text](https://github.com/martianvenusian/installations/blob/master/OpenCV/installation_01.png?raw=true)
 
 
@@ -93,24 +93,31 @@ int main( int argc, char** argv) {
 ```
 
 ## Build the application
+
+```
 > mkdir build
 > cd build
 > cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\opencv ..
 > cmake --build . --config Release
+```
 
 Where \absolute\path\to\opencv should be the absolute (!) path to the unzipped opencv library.
 
 for example your cmake build will be like this: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\opencv\build ..
 
 ## Exectute a sample code
+
+```
 > cd Release
 > sampleCode.exe \path\to\image
+```
 
 Where \path\to\image should be the path to a image you want to test with
+
 For example: D:\husan\projects\installation\OpenCV\image.jpg
 
 and your result:
 
 OpenCV version : 4.5.2
 
-![alt text](https://github.com/martianvenusian/installations/blob/master/OpenCV/installation_01.png?raw=true)
+![alt text](https://github.com/martianvenusian/installations/blob/master/OpenCV/image.png?raw=true)
