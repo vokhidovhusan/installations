@@ -56,6 +56,8 @@
 
 ### Opencv with Cuda on Ubuntu
 
+[Opencv on Windows 10](https://github.com/martianvenusian/installations/blob/master/PyTorch/pytorch_on_windows_10.md)
+
 [Install OpenCV 4.2.0 with CUDA 10.1 on Ubuntu 20.04 LTS]
 
 [OpenCV's dnn module with NVIDIA GPU, CUDA and cuDNN]

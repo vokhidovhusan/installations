@@ -30,7 +30,7 @@ For example:
 C:\Users\husan>unzip libtorch-win-shared-with-deps-1.8.1+cu111
 ```
 
-## CMkae build configuration 
+## CMake build configuration 
 
 1. Create `CMakeLists.txt` file
 
@@ -110,7 +110,7 @@ for example: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\libtorch-win-shared-with-d
 
 ![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/libtorch_build_01.png?raw=true)
 
-4. Executing the resulting example-app 
+## Executing the resulting example-app 
 ```
 > cd Release
 > example-app.ext
