@@ -5,32 +5,31 @@ This instruction only for GPU-enabled libtorch installation.
 1. CMake
 2. Visual Studio
 
-## Download and unzip LibTorch
+### Download and unzip LibTorch
 
-1. Go to pytorch homepage: https://pytorch.org/
+1. Go to pytorch's homepage: https://pytorch.org/
 
-2. Select `LibTorch` > `C++/Java` > `CUDA XX.X` 
+2. Select `LibTorch` > `C++/Java` > `CUDA XX.X`
 
 ![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/libtorch_download_01.png?raw=true)
 
-3. Copy link and download LibTorch archive.
-You can use brower or Command Prompt 
-For example:
-```
-C:\Users\husan>wget https://download.pytorch.org/libtorch/cu111/libtorch-win-shared-with-deps-1.8.1%2Bcu111.zip
-```
-4. Unzip the downloaded file
-You can go to the folder where you downloaded libtorch archive file and unzip it 
-
-or you can just use `Command Prompt`
+3. Copy the link and download LibTorch's release version. You can use command prompt to download it.
 
 For example:
+```
+https://download.pytorch.org/libtorch/cu111/libtorch-win-shared-with-deps-1.8.1%2Bcu111.zip
+```
+4. Unzip the downloaded file.
+
+Go to the folder where you downloaded libtorch archive file and unzip it.
+
+Or you can just use `Command Prompt`. For example:
 
 ```
-C:\Users\husan>unzip libtorch-win-shared-with-deps-1.8.1+cu111
+unzip libtorch-win-shared-with-deps-1.8.1+cu111
 ```
 
-## CMake build configuration 
+### CMake build configuration 
 
 1. Create `CMakeLists.txt` file
 
@@ -72,7 +71,7 @@ int main() {
 }
 ```
 
-## Build the application
+### Build the application
 
 1. Your directory could look like this:
 
@@ -85,10 +84,10 @@ example-app/
 2. Run build command:
 
 ```
-> mkdir build
-> cd build
-> cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\libtorch ..
-> cmake --build . --config Release
+mkdir build
+cd build
+cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\libtorch ..
+cmake --build . --config Release
 ```
 
 Where \absolute\path\to\libtorch should be the absolute (!) path to the unzipped LibTorch distribution.
@@ -110,10 +109,13 @@ for example: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\libtorch-win-shared-with-d
 
 ![alt text](https://github.com/martianvenusian/installations/blob/master/PyTorch/libtorch_build_01.png?raw=true)
 
-## Executing the resulting example-app 
+### Executing the resulting example-app 
 ```
-> cd Release
-> example-app.ext
+cd Release
+example-app.ext
+```
+Your result: 
+```
 0.0355 0.3252 0.3173
 0.2431 0.1775 0.2966
 ```
