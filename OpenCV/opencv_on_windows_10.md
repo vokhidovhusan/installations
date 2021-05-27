@@ -1,4 +1,4 @@
-# OpenCV 4.x.x on WINDOWS 10
+# OpenCV on WINDOWS 10
 Installation by using the pre-build library
 
 ## Prerequirements
