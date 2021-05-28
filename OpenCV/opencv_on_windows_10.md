@@ -1,24 +1,23 @@
 # OpenCV on WINDOWS 10
 Installation by using the pre-build library
 
-## Prerequirements
+### Prerequirements
 1. CMake
-2. git-bash
-3. Visual Studio Community
+2. Visual Studio Community
 
-## Download OpenCV
+### Download OpenCV
 1. Download opencv library [here](https://opencv.org/releases/).
 2. Select "Windows" to download the package.
 ![alt text](https://github.com/martianvenusian/installations/blob/master/OpenCV/opencv_download_01.png?raw=true)
 
 
-## Installation
+### Installation
 1. Once you download the installer, double click on it to extract.
 2. Choose the path where you want to extract.
 ![alt text](https://github.com/martianvenusian/installations/blob/master/OpenCV/installation_01.png?raw=true)
 
 
-## CMake build configuration 
+### CMake build configuration 
 
 1. Create `CMakeLists.txt` file
 
@@ -92,27 +91,27 @@ int main( int argc, char** argv) {
 }
 ```
 
-## Build the application
+### Build the application
 
 ```
-> mkdir build
-> cd build
-> cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\opencv ..
-> cmake --build . --config Release
+mkdir build
+cd build
+cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\opencv ..
+cmake --build . --config Release
 ```
 
 Where \absolute\path\to\opencv should be the absolute (!) path to the unzipped opencv library.
 
-for example your cmake build will be like this: cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\opencv\build ..
+For example your cmake build will be like this: `cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\opencv\build ..`
 
-## Exectute a sample code
+### Exectute a sample code
 
 ```
-> cd Release
-> sampleCode.exe \path\to\image
+cd Release
+sampleCode.exe \path\to\image
 ```
 
-Where \path\to\image should be the path to a image you want to test with
+Where \path\to\image should be the path to a image you want to test with.
 
 For example: D:\husan\projects\installation\OpenCV\image.jpg
 
