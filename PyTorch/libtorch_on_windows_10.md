@@ -17,7 +17,7 @@ This instruction only for GPU-enabled libtorch installation.
 ```
 https://download.pytorch.org/libtorch/cu111/libtorch-win-shared-with-deps-1.8.1%2Bcu111.zip
 ```
-4. Unzip the downloaded file. Go to the folder where you downloaded libtorch archive file and unzip it. Or you can just use `Command Prompt`. For example:
+4. Unzip the downloaded file. Go to the folder where you downloaded libtorch archive file and unzip it. Or you can just use `Command Prompt` to unzip it. For example:
 
 ```
 unzip libtorch-win-shared-with-deps-1.8.1+cu111
@@ -53,7 +53,7 @@ if (MSVC)
 endif (MSVC)
 ```
 
-2. Write implementation c++ code
+2. Create a c++ file and name it `example-app.cpp` and then write an implementation code.
 
 ```
 #include <torch/torch.h>
