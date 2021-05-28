@@ -106,7 +106,7 @@ If all goes well, it will look something like this:
 ### Executing the resulting example-app 
 ```
 cd Release
-example-app.ext
+example-app.exe
 ```
 Your result: 
 ```
