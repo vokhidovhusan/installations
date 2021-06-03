@@ -15,7 +15,7 @@ This instruction only for GPU-enabled libtorch installation.
 
 3. Copy the link and download LibTorch's release version. You can use command prompt to download it. For example:
 ```
-https://download.pytorch.org/libtorch/cu111/libtorch-win-shared-with-deps-1.8.1%2Bcu111.zip
+wget https://download.pytorch.org/libtorch/cu111/libtorch-win-shared-with-deps-1.8.1%2Bcu111.zip
 ```
 4. Unzip the downloaded file. Go to the folder where you downloaded libtorch archive file and unzip it. Or you can just use `Command Prompt` to unzip it. For example:
 
