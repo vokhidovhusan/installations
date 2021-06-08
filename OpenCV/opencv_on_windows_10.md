@@ -100,7 +100,7 @@ cmake -DCMAKE_PREFIX_PATH=\absolute\path\to\opencv ..
 cmake --build . --config Release
 ```
 
-Where \absolute\path\to\opencv should be the absolute (!) path to the unzipped opencv library.
+Where \absolute\path\to\opencv should be an absolute (!) path to the unzipped opencv library.
 
 For example your cmake build will be like this: `cmake -DCMAKE_PREFIX_PATH=C:\Users\Husan\opencv\build ..`
 
@@ -111,7 +111,7 @@ cd Release
 sampleCode.exe \path\to\image
 ```
 
-Where \path\to\image should be the path to a image you want to test with.
+Where \path\to\image should be a path to a image you want to test with.
 
 For example: D:\husan\projects\installation\OpenCV\image.jpg
 
